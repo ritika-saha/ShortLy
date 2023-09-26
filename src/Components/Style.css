@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #c40068;;
+   
+}
+
+.header{
+   /* border:2px solid red;*/
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: left;
+    color: white;
+    height: 30vh;
+    justify-content: space-between;
+}
+
+.header-title{
+    font-family: 'Handjet', cursive;
+    font-size: 750%;
+}
+
+.header-desc{
+    font-family: cursive;
+    opacity: 0.8;
+}
