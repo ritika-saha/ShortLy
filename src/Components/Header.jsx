@@ -8,6 +8,9 @@ const Header = () => {
     <div className='header'>
         <div className='header-title'><TypingText text="ShortLy...." /></div>
         <p className='header-desc'>Enter your long URL and shorten it with ease 🎉</p>
+        <div>Made By Ritika ..... Repo
+          <a href="#">🔗</a>
+        </div>
     </div>
 
   )

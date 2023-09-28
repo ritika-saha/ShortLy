@@ -16,6 +16,7 @@
     color: white;
     height: 30vh;
     justify-content: space-between;
+    margin-bottom: 30px;
 }
 
 .header-title{
@@ -26,4 +27,59 @@
 .header-desc{
     font-family: cursive;
     opacity: 0.8;
+}
+
+.body-container{
+    width: 100%;
+   /* border: 2px solid white;*/
+    height: 100%;
+    margin-top: 10px;
+   align-items: center;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: column;
+   text-align: left;
+   padding: 2%;
+}
+
+.main{
+    width: 95%;
+    margin-bottom: 50px;
+}
+
+.result{
+    width: 95%;
+    font-family: 'Handjet', cursive;
+    color: white;
+    font-size: 150%;
+}
+
+.urlText{
+    padding: 15px;
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    font-size: x-large;
+    width: 100%;
+    border: none;
+    border-radius: 15px;
+}
+
+.button{
+    padding: 12px;
+    width: 150px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    color :black;
+    font-weight: 1000;
+    font-size: large;
+    background-color:  rgb(195, 255, 106);
+    border-radius: 10px;
+}
+
+.load{
+    color: white;
+    font-size: 250%;
+    font-family: 'Handjet', cursive;
 }
