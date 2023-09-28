@@ -5,7 +5,7 @@ import { CopyToClipboard } from 'react-copy-to-clipboard';
 import axios from "axios";
 
 const Body = () => {
-    const api="http://localhost:3000/api/urlShortner"
+    const api="https://shorly-wsmw.onrender.com/api/urlShortner"
     const [loading,setLoading]=useState(false)
     const [short,setShort]=useState("")
     const [long,setLong]=useState("")
