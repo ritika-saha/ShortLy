@@ -1,3 +1,43 @@
+# Shorten URLs with ease ✨
+🍀 <a href="https://shortly-pwbu.onrender.com/">Site is live HERE 🎉</a>
+</br>
+🍀 <a href="https://github.com/ritika-saha/ShortLy-server">Server Repository 🔗</a>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
